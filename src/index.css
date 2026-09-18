@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html,body{
+    min-height: 100vh;
+    max-width: 100vw;
+    overflow-x: hidden;
+    font-family: sans-serif;
+}
+
+.cast-scrollbar::-webkit-scrollbar {
+  height: 8px;
+}
+
+.cast-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.cast-scrollbar::-webkit-scrollbar-thumb {
+  background: #DBDBDB;
+  border-radius: 10px;
+}
