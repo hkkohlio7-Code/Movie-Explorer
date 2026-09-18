@@ -4,9 +4,7 @@ A modern and responsive movie discovery web application built with **React.js** 
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](#)**
-
-> Replace the `#` with your deployed project URL.
+🔗 **[View Live Demo](https://movie-explorer-pearl-ten.vercel.app/)**
 
 ## 📸 Preview
 
