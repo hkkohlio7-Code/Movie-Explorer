@@ -29,7 +29,7 @@ if(!data){
   return (
     <div className='max-w-screen min-h-screen py-8'>
         <div className='flex justify-center bg-[#DFDFDF]'>
-        <div className=' w-[80%] h-32 py-2 flex items-center border'>
+        <div className=' w-[80%] h-32 py-2 flex items-center'>
             <div className='h-[95%] flex gap-3'>
               <img src={`${URL}${data.poster_path}`} className='lg:h-24 h-20' loading='lazy'/>
             <div>
